@@ -15,3 +15,5 @@ Tech stack used:
 - ethers.js
 - yarn
 - Strapi DB
+
+**https://www.youtube.com/live/q-7AbpceTzk?feature=share**
